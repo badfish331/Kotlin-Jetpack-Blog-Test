@@ -1,0 +1,16 @@
+[
+  {
+    "userId": "test@anon.com",
+    "password": "asdf",
+    "firstName": "Anonymous",
+    "lastName": "User",
+    "imageId": "0"
+  },
+  {
+    "userId": "run@run.run",
+    "password": "asdf",
+    "firstName": "Xyldrun",
+    "lastName": "Jacob",
+    "imageId": "0"
+  }
+]

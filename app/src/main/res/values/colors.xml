@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- colors extracted from http://capsl.cc/-->
+    <color name="colorPrimary">#5387e1</color>
+    <color name="colorPrimaryDark">#6967d9</color>
+    <color name="colorAccent">#9719c4</color>
+    <color name="iconColor">#52afca</color>
+	<color name="btnLightRed">#cf6056</color>
+	<color name="btnDarkRed">#a0372a</color>
+	<color name="bgLightPurple">#b99fdb</color>
+	<color name="gradientPurpleStart">#5546bb</color>
+	<color name="gradientPurpleCenter">#6c49c5</color>
+	<color name="gradientPurpleEnd">#8a51d8</color>
+	<color name="footerBlack">#1b1c1e</color>
+	<color name="lightGray">#f5f6f7</color>
+</resources>

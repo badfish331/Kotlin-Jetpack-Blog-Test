@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "userId": "test@anon.com",
+    "title": "Test blog post 1",
+    "content": "Lorem ipsum dolor, sit amet. Blah blah blah blah blah...",
+    "isPublic": true,
+    "datePosted": 1547994142000
+  },
+  {
+    "id": 2,
+    "userId": "test@anon.com",
+    "title": "Test blog post 2",
+    "content": "Lorem ipsum dolor, sit amet. Blah blah blah blah blah...",
+    "isPublic": true,
+    "datePosted": 1547994142000
+  },
+  {
+    "id": 3,
+    "userId": "test@anon.com",
+    "title": "Test blog post 3",
+    "content": "Lorem ipsum dolor, sit amet. Blah blah blah blah blah...",
+    "isPublic": true,
+    "datePosted": 1547994142000
+  }
+]

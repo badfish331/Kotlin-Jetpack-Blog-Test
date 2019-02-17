@@ -1,0 +1,56 @@
+<resources>
+	<string name="post_success">Blog entry posted.</string>
+	<string name="post_canceled">Post canceled..</string>
+	<string name="app_name">CAPSL Blog</string>
+	<string name="splash_txt">Esports how it should be</string>
+	<string name="mark_private">Make this post private?</string>
+	<string name="login_txt">LOGIN</string>
+	<string name="btn_continue">Continue</string>
+	<string name="hint_email">Email Address</string>
+	<string name="hint_pwd">Password</string>
+	<string name="hint_title">Title</string>
+	<string name="hint_content">Content</string>
+	<string name="hint_conf_pwd">Confirm password</string>
+	<string name="btn_cancel">Cancel</string>
+	<string name="required_title">Title is required.</string>
+	<string name="required_content">Content is required.</string>
+	<string name="btn_close">Close</string>
+	<string name="hint_first_name">First name</string>
+	<string name="hint_last_name">Last name</string>
+	<string name="hint_profile_pic">Profile image</string>
+	<string name="btn_upload_photo">Upload photo</string>
+	<string name="btn_login">Sign-in</string>
+	<string name="btn_view">View</string>
+	<string name="btn_skip">Skip</string>
+	<string name="title_register">Register</string>
+	<string name="btn_submit">Submit</string>
+	<string name="btn_photo"><u>Tap to add a photo</u></string>
+	<string name="link_register">
+		<u>Register</u>
+	</string>
+	<string name="choose_pic_canceled">Photo selection canceled.</string>
+	<string name="canceled_registration">Registration canceled.</string>
+	<string name="reg_success">Registration successful.</string>
+	<string name="user_name">User name</string>
+	<string name="user_email">User email</string>
+	<string name="required_email">Email is required.</string>
+	<string name="required_pwd">Password is required.</string>
+	<string name="required_conf_pwd">Confirm password is required.</string>
+	<string name="required_first_name">First name is required.</string>
+	<string name="required_last_name">Last name is required.</string>
+	<string name="incorrect_pwd">Incorrect password!</string>
+	<string name="invalid_email">Email is invalid.</string>
+	<string name="invalid_password">Password is invalid.</string>
+	<string name="pwd_no_match">Passwords don\'t match.</string>
+	<!-- auto generated -->
+	<string name="title_activity_main">MainActivity</string>
+	<string name="title_home">Home</string>
+	<string name="title_dashboard">Dashboard</string>
+	<string name="title_notifications">Notifications</string>
+	<string name="navigation_drawer_open">Open navigation drawer</string>
+	<string name="navigation_drawer_close">Close navigation drawer</string>
+	<string name="nav_header_title">Android Studio</string>
+	<string name="nav_header_subtitle">android.studio@android.com</string>
+	<string name="nav_header_desc">Navigation header</string>
+	<string name="action_settings">Settings</string>
+</resources>
